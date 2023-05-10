@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vinicius Bazanella
 - 👀 I’m interested in **Frontend Development** and **Music Production**, sometimes trying to bring these two a little closer 🎹.
-- 🌱 I’m currently learning Vue 3 Composition API, Typescript and [Atomic Design Patterns](https://atomicdesign.bradfrost.com/table-of-contents/)
+- 🌱 I’m currently working in a daily basis with Vue 3 (Composition API), Typescript and [Atomic Design Patterns](https://atomicdesign.bradfrost.com/table-of-contents/)
 - 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/viniciusbazanella/) or just [send me an email](mailto:vinicius.bazanella1@gmail.com) :)
